@@ -3359,6 +3359,7 @@ body.no-max-width .main-navigation {
 .widget select {
   max-width: 100%;
   width: 100%;
+  color: #000000;
 }
 
 /* Search widget */
