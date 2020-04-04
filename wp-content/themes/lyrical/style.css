@@ -2829,7 +2829,7 @@ a:visited {
 }
 
 a:hover, a:focus, a:active {
-  color: #6edade;
+  color: #62d7db;
 }
 
 .main-navigation-container {
@@ -3359,6 +3359,7 @@ body.no-max-width .main-navigation {
 .widget select {
   max-width: 100%;
   width: 100%;
+  color: #62d7db;
 }
 
 /* Search widget */
@@ -3566,7 +3567,7 @@ body.no-max-width .main-navigation {
 .widget_calendar #calendar_wrap #wp-calendar tfoot td {
   padding: .5em 1em;
   font-weight: bold;
-  color: #000000;
+  color: #62d7db;
 }
 
 .widget_calendar #calendar_wrap #wp-calendar tfoot td a {
@@ -5709,7 +5710,7 @@ body.home .hero {
   text-align: center;
   width: 100%;
   text-indent: 0;
-  background-color: #62d7db;
+  background-color: ;
 }
 
 .primer-wc-cart-menu .widget_shopping_cart p.buttons a:first-child {
